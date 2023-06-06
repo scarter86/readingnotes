@@ -3,7 +3,7 @@
 
 ## Introduction ##
 
-*Hi! I'm Sam and I'm currently part of the June 2023 Bootcamp cohort with Tech Educators.*
+*Hi!  My name is Sam, based in East of England and I'm currently studying as part of the June 2023 Bootcamp cohort with Tech Educators.*
 
 ## Interests ##
 - Food, cooking and baking.

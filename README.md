@@ -1,9 +1,9 @@
 # readingnotes
-### Tech Educators Full Stack Development Bootcamp ###
+# Tech Educators Full Stack Development Bootcamp #
 
 ## Introduction ##
 
-Hi! I'm Sam and I'm currently part of the June 2023 Bootcamp cohort with Tech Educators.
+*Hi! I'm Sam and I'm currently part of the June 2023 Bootcamp cohort with Tech Educators.*
 
 ## Interests ##
 - Food, cooking and baking.

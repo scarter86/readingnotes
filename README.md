@@ -15,7 +15,7 @@ Hi! I'm Sam and I'm currently part of the June 2023 Bootcamp cohort with Tech Ed
 
 ## About ##
 
-This page will be used for my notes during the Bootcamp and can be found [HERE](https://samcarter86.github.io/readingnotes)
+This page will be used for my notes during the Bootcamp and can be found [HERE](https://scarter86.github.io/readingnotes/)
 
 ## Growth Mindset ##
 

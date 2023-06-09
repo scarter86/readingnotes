@@ -15,7 +15,7 @@
 
 ## Contents ##
 ##102##
-[01](Projects/readingnotes/notes_102/notes1)
+[01](/Projects/readingnotes/notes_102/notes1)
 [02](/Users/samcarter/Projects/readingnotes/notes_102/notes2)
 [03](/Users/samcarter/Projects/readingnotes/notes_102/notes3)
 [04](/Users/samcarter/Projects/readingnotes/notes_102/notes4)

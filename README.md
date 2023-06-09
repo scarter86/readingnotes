@@ -1,5 +1,5 @@
 # readingnotes
-# Tech Educators Full Stack Development Bootcamp #
+# Tech Educators Full Stack Development Bootcamp June-August 2023 #
 
 ## Introduction ##
 
@@ -11,11 +11,38 @@
 - Music, all sorts, playing poorly and frequenting festivals/gigs.
 - Tottenham Hotspur.
 
-![hope](https://i.pinimg.com/736x/fb/54/91/fb54917759181759c0918b20a6df6bfb.jpg)
+![hope](https://i.pinimg.com/736x/fb/54/91/fb54917759181759c0918b20a6df6bfb.jpg "hope")
 
-## About ##
+## Contents ##
 
-This page will be used for my notes during the Bootcamp and can be found [HERE](https://scarter86.github.io/readingnotes/)
+####102 ####
+
+[01](/Users/samcarter/Projects/readingnotes/notes_102/notes1)
+[02](/Users/samcarter/Projects/readingnotes/notes_102/notes2)
+[03](/Users/samcarter/Projects/readingnotes/notes_102/notes3)
+[04](/Users/samcarter/Projects/readingnotes/notes_102/notes4)
+[05](/Users/samcarter/Projects/readingnotes/notes_102/notes5)
+[06](/Users/samcarter/Projects/readingnotes/notes_102/notes6)
+[07](/Users/samcarter/Projects/readingnotes/notes_102/notes7)
+[08](/Users/samcarter/Projects/readingnotes/notes_102/notes8)
+
+####201####
+
+[01](/Users/samcarter/Projects/readingnotes/notes_201/notes1)
+[02](/Users/samcarter/Projects/readingnotes/notes_201/notes2)
+[03](/Users/samcarter/Projects/readingnotes/notes_201/notes3)
+[04](/Users/samcarter/Projects/readingnotes/notes_201/notes4)
+[05](/Users/samcarter/Projects/readingnotes/notes_201/notes5)
+[06](/Users/samcarter/Projects/readingnotes/notes_201/notes6)
+[07](/Users/samcarter/Projects/readingnotes/notes_201/notes7)
+[08](/Users/samcarter/Projects/readingnotes/notes_201/notes8)
+[09](/Users/samcarter/Projects/readingnotes/notes_201/notes9)
+[10](/Users/samcarter/Projects/readingnotes/notes_201/notes10)
+[11](/Users/samcarter/Projects/readingnotes/notes_201/notes11)
+[12](/Users/samcarter/Projects/readingnotes/notes_201/notes12)
+[13](/Users/samcarter/Projects/readingnotes/notes_201/notes13)
+[14](/Users/samcarter/Projects/readingnotes/notes_201/notes14)
+[15](/Users/samcarter/Projects/readingnotes/notes_201/notes15)
 
 ## Growth Mindset ##
 

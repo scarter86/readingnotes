@@ -49,7 +49,7 @@
 A positive mindset, striving to be the best version of yourself through continually learning and honing your skill in a positive environment.
 
 ## Growth Mindset Reminders ##
-- Be present.
+- Stay present.
 - Have fun.
 - Be inquisitive.
 - Always have Hope.

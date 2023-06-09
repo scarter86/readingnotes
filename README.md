@@ -40,9 +40,14 @@
 [10](notes_201/notes10.md)
 [11](notes_201/notes11.md)
 [12](notes_201/notes12.md)
-[13](notes_201/notes13.md)
+[13](notes_201/notes13.md)****
 [14](notes_201/notes14.md)
 [15](notes_201/notes15.md)
+
+| [01](notes_102/notes1.md) | [02](notes_102/notes2.md) | [03](notes_102/notes3.md) | [04](notes_102/notes4.md) |
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+| [05](notes_102/notes5.md) | [06](notes_102/notes6.md) | [07](notes_102/notes7.md) | [08](notes_102/notes8.md) |
+
 
 ## Growth Mindset ##
 

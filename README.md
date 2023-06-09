@@ -14,10 +14,8 @@
 ![hope](https://i.pinimg.com/736x/fb/54/91/fb54917759181759c0918b20a6df6bfb.jpg "hope")
 
 ## Contents ##
-
-####102 ####
-
-[01](/Users/samcarter/Projects/readingnotes/notes_102/notes1)
+##102##
+[01](Projects/readingnotes/notes_102/notes1)
 [02](/Users/samcarter/Projects/readingnotes/notes_102/notes2)
 [03](/Users/samcarter/Projects/readingnotes/notes_102/notes3)
 [04](/Users/samcarter/Projects/readingnotes/notes_102/notes4)
@@ -26,7 +24,7 @@
 [07](/Users/samcarter/Projects/readingnotes/notes_102/notes7)
 [08](/Users/samcarter/Projects/readingnotes/notes_102/notes8)
 
-####201####
+##201##
 
 [01](/Users/samcarter/Projects/readingnotes/notes_201/notes1)
 [02](/Users/samcarter/Projects/readingnotes/notes_201/notes2)

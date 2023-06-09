@@ -17,8 +17,8 @@
 
 ## 102 ##
 
-[01](/readingnotes/notes_102/notes1.md)
-[02](/readingnotes/notes_102/notes2.md)
+[01](/readingnotes/notes_102/notes1)
+[02](/notes_102/notes2)
 [03](/readingnotes/notes_102/notes3.md)
 [04](/readingnotes/notes_102/notes4.md)
 [05](/readingnotes/notes_102/notes5.md)

@@ -6,9 +6,9 @@
 *Hi!  My name is Sam, based in East of England and I'm currently studying as part of the June 2023 Bootcamp cohort with Tech Educators.*
 
 ## Interests ##
-- Food, cooking and baking.
+- Food, I love to cook and bake.
 - Traditional Tattoo culture.
-- Music, playing poorly and rocking out at festivals/gigs.
+- Music, all sorts, playing poorly and frequenting festivals/gigs.
 - Tottenham Hotspur.
 
 ![hope](https://i.pinimg.com/736x/fb/54/91/fb54917759181759c0918b20a6df6bfb.jpg)
